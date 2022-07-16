@@ -9,9 +9,3 @@
  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Sagar_Uprety-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-uprety/)]
-[![Gmail Badge](https://img.shields.io/badge/sagarupreti100@gmail.com-white?style=flat&logo=Gmail&logoColor=&link=mailto:sagarupreti100@gmail.com)](mailto:sagarupreti100@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Sagar_Uprety-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/sagaruprety977)](https://www.facebook.com/sagaruprety977/)
-[![Follow Me](https://img.shields.io/github/followers/sagar-uprety?label=Follow%20Me&style=social)](https://www.github.com/sagar-uprety)
-
